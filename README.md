@@ -1,1 +1,1 @@
-# Computer Vision - Harris-corner-detection-
+# Image Processing - Harris-corner-detection-
